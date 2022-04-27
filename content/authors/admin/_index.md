@@ -16,6 +16,7 @@ superuser: true
 # Short bio (displayed in user profile at end of posts)
 bio: Bara en zon till...
 
+# Interests (displayed on author's page)
 # interests:
 # - Artificial Intelligence
 

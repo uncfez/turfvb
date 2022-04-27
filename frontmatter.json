@@ -1,0 +1,27 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "assets",
+      "path": "[[workspace]]/assets"
+    },
+    {
+      "title": "config",
+      "path": "[[workspace]]/config"
+    },
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "images",
+      "path": "[[workspace]]/images"
+    },
+    {
+      "title": "resources",
+      "path": "[[workspace]]/resources"
+    }
+  ]
+}
