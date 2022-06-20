@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Turf Västerbotten
+role: Ordförande
 
 # Organizations/Affiliations
 #organizations:
@@ -27,14 +27,24 @@ bio: Bara en zon till...
 email: ""
 
 # Interests (displayed on author's page)
-#interests:
-#- Artificial Intelligence
+interests:
+#  - Ordförande
+#  - Vice ordförande
+#  - Sekreterare
+#  - Kassör och medlemsansvarig
+#  - Ordinarie ledamot
+#  - Suppleant
+#  - Revisor
+#  - Revisorssuppleant
+#  - Valberedning
+#  - Webbansvarig
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+#  - Styrelse
+  - Ordförande
+#  - Övriga föreningsuppdrag
 ---
 
 Man ångrar aldrig en turftur!

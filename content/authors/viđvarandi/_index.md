@@ -1,10 +1,10 @@
 ---
 # Display name
-title: linkaz
+title: Viđvarandi
 
 # Username (this should match the folder name)
 authors:
-- linkaz
+- Viđvarandi
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,7 +30,7 @@ email: ""
 interests:
 #  - Ordförande
 #  - Vice ordförande
-#  - Sekreterare
+# - Sekreterare
 #  - Kassör och medlemsansvarig
 #  - Ordinarie ledamot
 #  - Suppleant
@@ -44,7 +44,6 @@ interests:
 user_groups:
   - Styrelse
 #  - Övriga föreningsuppdrag
-  - Webbansvariga
 ---
 
 Man ångrar aldrig en turftur!

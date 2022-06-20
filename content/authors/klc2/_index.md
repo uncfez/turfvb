@@ -1,16 +1,14 @@
 ---
 # Display name
-title: Admin
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: KLC2
+authors: 
+- KLC2
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-# role: Professor of Artificial Intelligence
+role: Ordinarie ledamot
 
 # Organizations/Affiliations
 # organizations:
@@ -71,8 +69,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#  - Styrelse
+  - Styrelse
 #  - Övriga föreningsuppdrag
+  - Webbansvariga
 ---
 
 Man ångrar aldrig en turftur!

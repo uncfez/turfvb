@@ -1,8 +1,16 @@
 ---
-title: "Turfträff!"
-date: "2022-02-06"
+title: Turfträff!
+date: 2022-02-06
 categories: 
-  - "okategoriserade"
+  - okategoriserade
+tags:
+  - turfträff
+  - umeå
+authors: 
+  - linkaz
+featured_image: 
+image: 
+  caption: 'Foto: '
 ---
 
 Pike öppnade 2022 med att inkassera sitt andra världsbrons samt Västerbottens första världsmedalj 2022. Vem blir näst på tur?

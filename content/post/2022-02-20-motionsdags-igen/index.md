@@ -1,11 +1,16 @@
 ---
-title: "Motionsdags igen!"
-date: "2022-02-20"
+title: Motionsdags igen!
+authors: 
+  - Ninetail
+date: 2022-02-20
+featured_image: 
 categories: 
-  - "okategoriserade"
+  - okategoriserade
 tags: 
-  - "arsmote"
-  - "foreningsinformation"
+  - årsmöte
+  - föreningsinformation
+image: 
+  caption: 'Foto: '
 ---
 
 Lördag den 26 mars kl 13:00 hålls föreningen Turf Västerbottens årsmöte. Som medlem har du möjlighet att vara med och forma föreningen och ha inflytande i vad föreningen ska ha för verksamhetsfokus. Detta gör du enkelt på två sätt:

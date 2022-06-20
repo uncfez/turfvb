@@ -28,13 +28,24 @@ email: ""
 
 # Interests (displayed on author's page)
 #interests:
-#- Artificial Intelligence
+#  - Ordförande
+#  - Vice ordförande
+#  - Sekreterare
+#  - Kassör och medlemsansvarig
+#  - Ordinarie ledamot
+#  - Suppleant
+#  - Revisor
+#  - Revisorssuppleant
+#  - Valberedning
+#  - Webbansvarig
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-- Researchers
-- Visitors
+
+user_groups:
+#  - Styrelse
+#  - Övriga föreningsuppdrag
+---
 ---
 
 Man ångrar aldrig en turftur!

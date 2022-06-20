@@ -5,6 +5,7 @@
 
 title: Turf Västerbotten # Website name
 baseURL: 'https://adamsson.me' # Website URL
+cloudinary_base_url: https://res.cloudinary.com/turfvb
 
 ############################
 ## LANGUAGE

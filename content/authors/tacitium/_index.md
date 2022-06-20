@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Admin
+title: Tacitium
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Tacitium
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-# role: Professor of Artificial Intelligence
+role: Revisorssuppleant
 
 # Organizations/Affiliations
 # organizations:
@@ -72,7 +72,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #  - Styrelse
-#  - Övriga föreningsuppdrag
+  - Övriga föreningsuppdrag
 ---
 
 Man ångrar aldrig en turftur!

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Admin
+title: Randy55
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Randy55
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-# role: Professor of Artificial Intelligence
+role: Revisor
 
 # Organizations/Affiliations
 # organizations:
@@ -71,8 +71,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#  - Styrelse
-#  - Övriga föreningsuppdrag
+#  - styrelse
+  - Övriga föreningsuppdrag
 ---
 
 Man ångrar aldrig en turftur!
