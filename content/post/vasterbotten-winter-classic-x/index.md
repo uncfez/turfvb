@@ -44,7 +44,7 @@ Det kommer att delas ut priser till 1:an 2:an samt 3:an i samtliga klasser. Det 
 
 ## Anmälan 
 
-Då detta är ett öppet event så krävs ingen anmälan men för att underlätta för zonläggning så att rätt antal zoner läggs ut så fyll gärna i [detta anmälningsformulär](https://forms.gle/uhTTmbgVhgRJAdZh9). Sista anmälningsdatum är 5/2–2024
+Då detta är ett öppet event så krävs ingen anmälan men för att underlätta för zonläggning så att rätt antal zoner läggs ut så fyll gärna i [anmälningsformuläret](https://forms.gle/uhTTmbgVhgRJAdZh9) (finns längre ned på sidan). Sista anmälningsdatum är 5/2–2024
 
 ## Säkerhet
 
@@ -66,3 +66,6 @@ Gå, spring eller cykla – gör vilket du tycker passa bäst för dig för till
 ## Efter eventet
 
 Efter eventet så träffas vi på restaurang Droskan kl. 18.00 för lite middag och en trevlig kväll tillsammans.
+
+## Anmälningsformulär
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScylnuFeoNvJmi0TNUdwKpQPlKm85Fl5Oc_QEVYziPBfZgQJg/viewform?embedded=true" width="640" height="1394" frameborder="0" marginheight="0" marginwidth="0">Läser in …</iframe>

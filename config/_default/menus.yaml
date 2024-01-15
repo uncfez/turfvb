@@ -7,23 +7,23 @@ main:
   - name: Om föreningen
     url: /om
     weight: 10
-#  - name: Pokaler & klassiker
-#    identifier: pok
-#    weight: 30
-#  - name: Vandringspokalen
-#    parent: pok
-#    weight: 10
-#    url: tags/
-#  - name: Västerbottens Turf-klassiker
-#    parent: pok
-#    weight: 20
-#    url: tags/
-#  - name: Profilkläder
-#    url: tags/
-#    weight: 40
-#  - name: Vad är turf?
-#    url: tags/
-#    weight: 50
+  - name: Pokalen & klassiker
+    identifier: pok
+    weight: 30
+  - name: Vandringspokalen
+    parent: pok
+    weight: 10
+    url: /vandringspokalen
+  - name: Västerbottens Turf-klassiker
+    parent: pok
+    weight: 20
+    url: /vasterbottens-turf-klassiker
+  - name: Profilkläder
+    url: /profilklader
+    weight: 40
+  - name: Vad är turf?
+    url: /vad-ar-turf
+    weight: 50
   - name: turfgame.com
     url: https://turfgame.com/
     weight: 60
