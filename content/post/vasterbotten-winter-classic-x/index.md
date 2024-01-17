@@ -68,4 +68,4 @@ Gå, spring eller cykla – gör vilket du tycker passa bäst för dig för till
 Efter eventet så träffas vi på restaurang Droskan kl. 18.00 för lite middag och en trevlig kväll tillsammans.
 
 ## Anmälningsformulär
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScylnuFeoNvJmi0TNUdwKpQPlKm85Fl5Oc_QEVYziPBfZgQJg/viewform?embedded=true" width="640" height="1394" frameborder="0" marginheight="0" marginwidth="0">Läser in …</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScylnuFeoNvJmi0TNUdwKpQPlKm85Fl5Oc_QEVYziPBfZgQJg/viewform?embedded=true" width="100%" height="1394" frameborder="0" marginheight="0" marginwidth="0">Läser in …</iframe>
