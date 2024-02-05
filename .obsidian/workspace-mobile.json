@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/profilklader.md",
+                "file": "content/vandringspokalen/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/profilklader.md",
+            "file": "content/vandringspokalen/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/profilklader.md",
+            "file": "content/vandringspokalen/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/profilklader.md"
+            "file": "content/vandringspokalen/index.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "714d0db7bea76dcf",
   "lastOpenFiles": [
+    "content/profilklader.md",
     "Untitled.md",
     "assets/media/albums/gausjosjobron/gausjosjobron-8.jpg",
     "assets/media/albums/gausjosjobron/gausjosjobron-4.jpg",
@@ -177,7 +178,6 @@
     "content/post/2020-03-11-turftraff-i-skelleftea-7-mars/index.md",
     "content/post/2020-02-03-niceresa-25-28-december-2019/index.md",
     "content/post/2020-01-05-valkommen-till-arets-forsta-turftraff/index.md",
-    "content/post/2020-02-29-kallelse-arsmote-2020/index.md",
-    "content/post/2019-05-23-omgangsvinnare-bonanza-och-arets-stjarnskott/index.md"
+    "content/post/2020-02-29-kallelse-arsmote-2020/index.md"
   ]
 }
