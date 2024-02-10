@@ -51,3 +51,5 @@ Regionmedaljer vunna i Västerbotten 2014 –.
     - roswes67 (2019) 
 
 Här kommer några bilder på de som fått sitt nickname ingraverat i vandringspokalen
+
+Bilder kommer inom kort…

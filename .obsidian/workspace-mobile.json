@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "6cb8e422de1b698f",
+    "type": "split",
+    "children": [
+      {
+        "id": "026192b27a5d7e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714d0db7bea76dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/vandringspokalen/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27328523ed950fa6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7036f0856faa7c2d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c03ec855b407bd03",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "80afeebf0690fb4f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f34cd6e4c73eeda1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "762f96b62fbc86f1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "68d3e24cc0f38f0f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/vandringspokalen/index.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7dcfab2ca34a1db4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/vandringspokalen/index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4a03ad85046e154b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/vandringspokalen/index.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "714d0db7bea76dcf",
+  "lastOpenFiles": [
+    "content/profilklader.md",
+    "Untitled.md",
+    "assets/media/albums/gausjosjobron/gausjosjobron-8.jpg",
+    "assets/media/albums/gausjosjobron/gausjosjobron-4.jpg",
+    "assets/media/albums/gausjosjobron/gausjosjobron-5.jpg",
+    "assets/media/albums/gausjosjobron/gausjosjobron-7.jpg",
+    "assets/media/albums/gausjosjobron/gausjosjobron-6.jpg",
+    "assets/media/albums/gausjosjobron/gausjosjobron-2.jpg",
+    "assets/media/albums/gausjosjobron/gausjosjobron-3.jpg",
+    "assets/media/albums/gausjosjobron/gausjosjobron-1.jpg",
+    "assets/media/albums/gausjosjobron/gausjosjobron-6-1.jpg",
+    "assets/media/albums/gausjosjobron",
+    "assets/css/themes/tvb.css",
+    "assets/media/albums",
+    "assets/media/bonanza-foot.webp",
+    "assets/media/icons",
+    "assets/css/themes",
+    "assets/media",
+    "assets/css",
+    "assets",
+    "i18n/sv.yml",
+    "i18n",
+    "README.md",
+    "content/bloxtmplt/teach-courses/index.md",
+    "content/bloxtmplt/get-started/index.md",
+    "content/bloxtmplt/second-brain/index.md",
+    "content/bloxtmplt/project-management/index.md",
+    "content/bloxtmplt/data-visualization/index.md",
+    "content/authors/ninetail/_index.md",
+    "content/authors/stefanx46/_index.md",
+    "content/authors/bli-medlem/_index.md",
+    "content/authors/unclefester/_index.md",
+    "content/authors/admin/_index.md",
+    "content/authors/linkaz/_index.md",
+    "content/authors/author/_index.md",
+    "content/authors/brellir/_index.md",
+    "content/authors/wombawomba/_index.md",
+    "content/authors/pike/_index.md",
+    "content/post/2020-02-08-turf-traff-pa-maria-6-2/index.md",
+    "content/post/2020-05-30-sveriges-tuffaste-klassiker-ar-igang/index.md",
+    "content/post/2021-06-21-vandringspokalen-finns-nu-hos-varan-sponsor-cm-cykel-o-fritid/index.md",
+    "content/post/2019-04-16-kallelse-till-arsmote-2019/index.md",
+    "content/post/2020-03-11-turftraff-i-skelleftea-7-mars/index.md",
+    "content/post/2020-02-03-niceresa-25-28-december-2019/index.md",
+    "content/post/2020-01-05-valkommen-till-arets-forsta-turftraff/index.md",
+    "content/post/2020-02-29-kallelse-arsmote-2020/index.md"
+  ]
+}
