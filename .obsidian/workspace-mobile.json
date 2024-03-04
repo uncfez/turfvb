@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/vandringspokalen/index.md",
+                "file": "content/post/årsmöte-2024-16-mars-kl-13/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/vandringspokalen/index.md",
+            "file": "content/post/årsmöte-2024-16-mars-kl-13/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/vandringspokalen/index.md",
+            "file": "content/post/årsmöte-2024-16-mars-kl-13/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/vandringspokalen/index.md"
+            "file": "content/post/årsmöte-2024-16-mars-kl-13/index.md"
           }
         }
       }
@@ -133,6 +133,9 @@
   },
   "active": "714d0db7bea76dcf",
   "lastOpenFiles": [
+    "content/vandringspokalen/index.md",
+    "content/post/årsmöte-2024-16-mars-kl-13/index.md",
+    "content/post/årsmöte-2024-16-mars-kl-13",
     "resources/_gen/images/pokalen-narbild_hu67ff54c8307c46394dc413d3ed4bc441_1481861_66f8795ca248562619d96e13ccc84a53.webp",
     "resources/_gen/images/vasterbottens-turf-klassiker/featured_hu30103634060a9e8b18f0427a836f6c50_14542118_7d0a7253ac43a15d07ce1c6f065ae1d4.webp",
     "content/post/vasterbotten-winter-classic-x-resultat",
@@ -144,7 +147,6 @@
     "resources/_gen/images/vasterbottens-turf-klassiker/close-to-heaven_hucc07ad7c63489c9536792c60c0d2d1d7_164339_099ad99340d62527c5d8e79840dfb309.webp",
     "resources/_gen/images/pokalen-narbild_hu67ff54c8307c46394dc413d3ed4bc441_1481861_c1f31f916e37ecfde012a15ee9a40972.webp",
     "resources/_gen/images/pokalen-narbild_hu67ff54c8307c46394dc413d3ed4bc441_1481861_45114eab7c2ba27111b78c6e92d92207.webp",
-    "resources/_gen/images/vasterbottens-turf-klassiker/close-to-heaven_hucc07ad7c63489c9536792c60c0d2d1d7_164339_cca986cdee7cdf91f5b175664fa4f226.webp",
     "content/post/vasterbotten-winter-classic-x-resultat/index.md",
     "content/profilklader.md",
     "Untitled.md",
@@ -156,7 +158,6 @@
     "assets/media",
     "assets/css",
     "assets",
-    "i18n/sv.yml",
     "README.md",
     "content/bloxtmplt/teach-courses/index.md",
     "content/bloxtmplt/get-started/index.md",
@@ -177,7 +178,6 @@
     "content/post/2020-05-30-sveriges-tuffaste-klassiker-ar-igang/index.md",
     "content/post/2021-06-21-vandringspokalen-finns-nu-hos-varan-sponsor-cm-cykel-o-fritid/index.md",
     "content/post/2019-04-16-kallelse-till-arsmote-2019/index.md",
-    "content/post/2020-03-11-turftraff-i-skelleftea-7-mars/index.md",
-    "content/post/2020-02-03-niceresa-25-28-december-2019/index.md"
+    "content/post/2020-03-11-turftraff-i-skelleftea-7-mars/index.md"
   ]
 }
