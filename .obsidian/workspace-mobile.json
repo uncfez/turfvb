@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/vandringspokalen/index.md",
+                "file": "content/post/vasterbotten-winter-classic-x-resultat/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/vandringspokalen/index.md",
+            "file": "content/post/vasterbotten-winter-classic-x-resultat/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/vandringspokalen/index.md",
+            "file": "content/post/vasterbotten-winter-classic-x-resultat/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/vandringspokalen/index.md"
+            "file": "content/post/vasterbotten-winter-classic-x-resultat/index.md"
           }
         }
       }
@@ -133,28 +133,31 @@
   },
   "active": "714d0db7bea76dcf",
   "lastOpenFiles": [
+    "content/post/vasterbotten-winter-classic-x-resultat/featured.JPEG",
+    "content/post/årsmöte-2024-16-mars-kl-13/index.md",
+    "content/vandringspokalen/index.md",
+    "content/post/årsmöte-2024-16-mars-kl-13",
+    "resources/_gen/images/pokalen-narbild_hu67ff54c8307c46394dc413d3ed4bc441_1481861_66f8795ca248562619d96e13ccc84a53.webp",
+    "resources/_gen/images/vasterbottens-turf-klassiker/featured_hu30103634060a9e8b18f0427a836f6c50_14542118_7d0a7253ac43a15d07ce1c6f065ae1d4.webp",
+    "content/post/vasterbotten-winter-classic-x-resultat",
+    "resources/_gen/images/vasterbottens-turf-klassiker/featured_hu30103634060a9e8b18f0427a836f6c50_14542118_720x2500_fit_q85_lanczos.jpg",
+    "resources/_gen/images/vasterbottens-turf-klassiker/close-to-heaven_hucc07ad7c63489c9536792c60c0d2d1d7_164339_1200x1200_fit_q85_h2_lanczos.webp",
+    "resources/_gen/images/vasterbottens-turf-klassiker/close-to-heaven_hucc07ad7c63489c9536792c60c0d2d1d7_164339_0bc128c5534475ea34b6245513131c38.webp",
+    "resources/_gen/images/vasterbottens-turf-klassiker/close-to-heaven_hucc07ad7c63489c9536792c60c0d2d1d7_164339_c184247e3ed39e6548831819350c067e.webp",
+    "resources/_gen/images/vasterbottens-turf-klassiker/close-to-heaven_hucc07ad7c63489c9536792c60c0d2d1d7_164339_099ad99340d62527c5d8e79840dfb309.webp",
+    "resources/_gen/images/pokalen-narbild_hu67ff54c8307c46394dc413d3ed4bc441_1481861_c1f31f916e37ecfde012a15ee9a40972.webp",
+    "resources/_gen/images/pokalen-narbild_hu67ff54c8307c46394dc413d3ed4bc441_1481861_45114eab7c2ba27111b78c6e92d92207.webp",
+    "content/post/vasterbotten-winter-classic-x-resultat/index.md",
     "content/profilklader.md",
     "Untitled.md",
-    "assets/media/albums/gausjosjobron/gausjosjobron-8.jpg",
-    "assets/media/albums/gausjosjobron/gausjosjobron-4.jpg",
-    "assets/media/albums/gausjosjobron/gausjosjobron-5.jpg",
-    "assets/media/albums/gausjosjobron/gausjosjobron-7.jpg",
-    "assets/media/albums/gausjosjobron/gausjosjobron-6.jpg",
-    "assets/media/albums/gausjosjobron/gausjosjobron-2.jpg",
-    "assets/media/albums/gausjosjobron/gausjosjobron-3.jpg",
-    "assets/media/albums/gausjosjobron/gausjosjobron-1.jpg",
-    "assets/media/albums/gausjosjobron/gausjosjobron-6-1.jpg",
     "assets/media/albums/gausjosjobron",
     "assets/css/themes/tvb.css",
     "assets/media/albums",
-    "assets/media/bonanza-foot.webp",
     "assets/media/icons",
     "assets/css/themes",
     "assets/media",
     "assets/css",
     "assets",
-    "i18n/sv.yml",
-    "i18n",
     "README.md",
     "content/bloxtmplt/teach-courses/index.md",
     "content/bloxtmplt/get-started/index.md",
@@ -174,10 +177,6 @@
     "content/post/2020-02-08-turf-traff-pa-maria-6-2/index.md",
     "content/post/2020-05-30-sveriges-tuffaste-klassiker-ar-igang/index.md",
     "content/post/2021-06-21-vandringspokalen-finns-nu-hos-varan-sponsor-cm-cykel-o-fritid/index.md",
-    "content/post/2019-04-16-kallelse-till-arsmote-2019/index.md",
-    "content/post/2020-03-11-turftraff-i-skelleftea-7-mars/index.md",
-    "content/post/2020-02-03-niceresa-25-28-december-2019/index.md",
-    "content/post/2020-01-05-valkommen-till-arets-forsta-turftraff/index.md",
-    "content/post/2020-02-29-kallelse-arsmote-2020/index.md"
+    "content/post/2019-04-16-kallelse-till-arsmote-2019/index.md"
   ]
 }
