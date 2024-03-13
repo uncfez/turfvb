@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sverigekampen | Turf Västerbotten</title>
+    <link>https://example.com/tag/sverigekampen/</link>
+      <atom:link href="https://example.com/tag/sverigekampen/index.xml" rel="self" type="application/rss+xml" />
+    <description>sverigekampen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>sv</language><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo_hu8ea2553b0b457816fa83419ca0949a23_81277_300x300_fit_lanczos_3.png</url>
+      <title>sverigekampen</title>
+      <link>https://example.com/tag/sverigekampen/</link>
+    </image>
+    
+    <item>
+      <title>Delta i Sverigekampen i höst!</title>
+      <link>https://example.com/post/2020-05-18-delta-i-sverigekampen-i-host/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2020-05-18-delta-i-sverigekampen-i-host/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Förhandsinformation!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I september genomförs Sverigekampen i Turf. En kamp mellan flera regioner där Västerbotten deltar. Vi hoppas att flera är peppade på att anmäla sig för att kämpa för Turf Västerbotten. Mer info kommer inom kort, när alla regler är bestämda.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;ldquo;attachment_580&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;3623&amp;rdquo;]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;lekplats&#34; srcset=&#34;
+               /post/2020-05-18-delta-i-sverigekampen-i-host/images/lekplats-e1589822579448_hu19462271606dd71ebc035c5cce18eca3_8794885_55c0f4375f9ce38b35df911f7ef542a0.webp 400w,
+               /post/2020-05-18-delta-i-sverigekampen-i-host/images/lekplats-e1589822579448_hu19462271606dd71ebc035c5cce18eca3_8794885_dd414470aebbcedd82e055e90602ba8b.webp 760w,
+               /post/2020-05-18-delta-i-sverigekampen-i-host/images/lekplats-e1589822579448_hu19462271606dd71ebc035c5cce18eca3_8794885_1200x1200_fit_q85_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/2020-05-18-delta-i-sverigekampen-i-host/images/lekplats-e1589822579448_hu19462271606dd71ebc035c5cce18eca3_8794885_55c0f4375f9ce38b35df911f7ef542a0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;452&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ Dags att cykla slinga i september? ;) Foto: WombaWomba[/caption]&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
