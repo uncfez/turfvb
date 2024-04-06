@@ -4,6 +4,8 @@ date:
 authors: 
 draft: false
 featured: false
+reading_time: false
+pager: false
 image:
   filename: 
   caption: '[Koppsele](https://turfgame.com/map/koppsele) i Malå kommun. Foto:Bont'

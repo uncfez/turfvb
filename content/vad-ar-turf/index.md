@@ -4,6 +4,8 @@ date:
 authors: 
 draft: false
 featured: false
+reading_time: false
+pager: false
 image:
   filename: 
   caption: 'Bild från zonen KlafsKlafs. Lyckas du ta dig torrskodd till zonen? Foto: WombaWomba.'

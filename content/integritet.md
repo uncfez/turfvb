@@ -1,14 +1,16 @@
 ---
 title: Integritet
-date: 2024-01-15T16:38:48.530Z
+lastmod: 2024-01-16
 draft: false
 featured: false
+reading_time: false
+pager: false
 ---
 
 ## Personuppgifts- och datahanteringspolicy
 
 **Föreningen Turf Västerbotten**
-_Version 1.2, 2024 - UTKAST_
+_Version 1.2, 2024 
 
 ### Allmänt 
 **Som medlem i föreningen Turf Västerbotten** blir eller kan du bli registrerad i de register/system som listas nedan. Vi redogör också̊ här för vilka data vi sparar, hur länge och med vem vi eventuellt delar den. 
@@ -82,4 +84,4 @@ Föreningen använder Google Drive för att dela och lagra arbetsdokument. Detta
 ### Revisionshistorik
 - Version 1 - 2019-07-24 - _Nytt dokument_
 - Version 2 - 2021-01-19 - _Revidering. Flytt av lagringsyta från Google Drive till Microsoft Teams. Mindre språkliga ändringar._
-- Version 3 - 2024-01-XX - _Utkast. Flytt av lagringsyta från Microsoft Teams till Google Drive. Mindre språkliga ändringar._
+- Version 3 - 2024-01-16 - _Revidering. Flytt av lagringsyta från Microsoft Teams till Google Drive. Mindre språkliga ändringar._

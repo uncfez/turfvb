@@ -4,6 +4,7 @@ date:
 draft: false
 featured: false
 reading_time: false
+pager: false
 image:
   filename: sportvast-turf-b-300x300.webp
 ---

@@ -5,6 +5,7 @@ authors:
 draft: false
 featured: false
 reading_time: false
+pager: false
 image:
   filename: pokalen.jpg
   caption: 'Foto: pike'
