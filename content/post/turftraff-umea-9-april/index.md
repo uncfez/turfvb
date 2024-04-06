@@ -1,6 +1,6 @@
 ---
 title: Turfträff i Umeå 9 april
-date: 2023-04-05
+date: 2024-04-05
 authors:
   - unclefester
 draft: false
